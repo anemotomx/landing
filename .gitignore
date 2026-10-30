@@ -1,0 +1,10 @@
+.DS_Store
+# Documentos de trabajo privados: solo locales, no se publican
+ICP.md
+auditoria.md
+aviso-privacidad-borrador.md
+respuesta-automatica.md
+AGENTS.md
+preguntas.md
+# Videos originales: solo locales; el sitio usa video/web/
+/video/*.mp4

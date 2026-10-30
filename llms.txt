@@ -1,0 +1,42 @@
+# ANEMOTO Studio
+
+> Estudio de diseño de espacios comerciales y retail en Ciudad de México. Diseña conceptos de tienda replicables, mobiliario, museografía y experiencias interactivas, con visualización 3D y documentación técnica para fabricación. ANEMOTO no fabrica.
+
+## Servicios
+- Diseño de tiendas e interiores comerciales
+- Mobiliario y displays a medida
+- Iluminación comercial
+- Sistemas modulares para múltiples sucursales
+- Museografía y experiencias interactivas
+- Visualización 3D
+- Documentación técnica para fabricación
+
+## Datos rápidos
+- Ubicación: Ciudad de México. Toma proyectos en cualquier región, dentro y fuera de México.
+- Trabajo a distancia: sí. Visitas al sitio a petición del cliente, si son posibles; el cliente cubre los viáticos.
+- Idiomas: español e inglés.
+- Cómo empezar: se agenda una cita, se define el customer journey, luego cotización (alcance y costo) y calendario.
+- Tamaño y tipo de cliente: cualquiera.
+- Fabricación: no fabrica; entrega documentación técnica para que el proveedor produzca.
+
+## Proyectos
+- Acuario Michin: diseño de entorno retail
+- Aprissa Moto: sistema modular retail para múltiples sucursales
+- Batta: oficina de servicio de crédito, espacio híbrido
+- La Universal: renovación de marca e interiorismo de panadería
+
+## Sobre el estudio
+- Fundado en 2006 en Ciudad de México; 20 años de experiencia. Nosotros y metodología de seis etapas (escuchar, investigar, explorar, desarrollar, visualizar, especificar): https://anemotomx.github.io/landing/nosotros/
+
+## Guías por tema
+- Diseño de tiendas replicables para varias sucursales: https://anemotomx.github.io/landing/tiendas-replicables/
+- Mobiliario retail diseñado para fabricarse: https://anemotomx.github.io/landing/mobiliario-retail/
+- Museografía y experiencias interactivas: https://anemotomx.github.io/landing/museografia-interactiva/
+- Renovación de sucursales cuidando la operación: https://anemotomx.github.io/landing/renovacion-de-sucursales/
+
+## Enlaces
+- Sitio: https://anemotomx.github.io/landing/
+- Preguntas frecuentes: https://anemotomx.github.io/landing/#preguntas
+- Aviso de privacidad: https://anemotomx.github.io/landing/aviso-de-privacidad/
+- Instagram: https://www.instagram.com/anemotomx
+- Contacto: anemotomx@gmail.com (correo); también en https://anemotomx.github.io/landing/#contacto
